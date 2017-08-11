@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\android workplace\android-Bluethat\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="D:\android workplace\android-Bluethat\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_00bd121e5fa35b4beb9611d15dc9b05ab337c699\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android workplace\android-Bluethat\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="54096d09c627a7a250085fbc8182752cdba3447d">
+        <dex dex="D:\android workplace\android-Bluethat\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_f9bc2cf4b209bb4c4c3af06b7cb496b9e1a20353\classes.dex" />
+    </item>
+
+</items>

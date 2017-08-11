@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\android workplace\\android-Bluethat\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "D:\\android workplace\\android-Bluethat\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\H151136\\StudioProjects\\android-BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_device_access_bluetooth_searching.png",
+        "source": "C:\\Users\\H151136\\StudioProjects\\android-BluetoothChat\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_action_device_access_bluetooth_searching.png"
+    },
+    {
+        "merged": "D:\\android workplace\\android-Bluethat\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_device_access_bluetooth_searching.png",
+        "source": "D:\\android workplace\\android-Bluethat\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_action_device_access_bluetooth_searching.png"
+    },
+    {
+        "merged": "C:\\Users\\H151136\\StudioProjects\\android-BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\H151136\\StudioProjects\\android-BluetoothChat\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    }
+]

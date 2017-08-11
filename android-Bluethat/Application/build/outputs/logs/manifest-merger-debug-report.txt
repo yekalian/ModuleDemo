@@ -1,0 +1,101 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\android workplace\android-Bluethat\Application\src\main\AndroidManifest.xml:18:1-55:12
+	package
+		ADDED from D:\android workplace\android-Bluethat\Application\src\main\AndroidManifest.xml:19:5-48
+	android:versionName
+		ADDED from D:\android workplace\android-Bluethat\Application\src\main\AndroidManifest.xml:22:5-30
+		INJECTED from D:\android workplace\android-Bluethat\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\android workplace\android-Bluethat\Application\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\android workplace\android-Bluethat\Application\src\main\AndroidManifest.xml:21:5-28
+		INJECTED from D:\android workplace\android-Bluethat\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\android workplace\android-Bluethat\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\android workplace\android-Bluethat\Application\src\main\AndroidManifest.xml:20:5-63
+application
+ADDED from D:\android workplace\android-Bluethat\Application\src\main\AndroidManifest.xml:28:5-50:19
+MERGED from [com.android.support:gridlayout-v7:25.0.1] C:\Users\1qsx\.android\build-cache\395d687d675409f60fddab5239384b9aa7d5297d\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:25.0.1] C:\Users\1qsx\.android\build-cache\9f83b208a197d5b7b79255fcf69bef3b2e8f25c9\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\1qsx\.android\build-cache\028854d5eaed832f406014d66f971ebfa1a13e3f\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\1qsx\.android\build-cache\a0385adea8ec7f05d74d318113fe50ac42bd33ce\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\1qsx\.android\build-cache\1565d7595ec0895b2da254b46751a610339ec68a\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\1qsx\.android\build-cache\e3a451db122defe7db095e15d23a4a262a61133a\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\1qsx\.android\build-cache\d74ed51119805deb73c82b29a3bb99ccdf8b7312\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\1qsx\.android\build-cache\00c84f05344e82d7b1a7913ceb991be5ee267d84\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\1qsx\.android\build-cache\76d76b7f49b5227719c322830ae3027f0507fbcc\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\1qsx\.android\build-cache\e12f913da214c47e906515d7bfd728b37a8a22ea\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\1qsx\.android\build-cache\6d82e717095e03e56ad9e0d6311b4bd1185fe360\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from D:\android workplace\android-Bluethat\Application\src\main\AndroidManifest.xml:31:9-41
+	android:allowBackup
+		ADDED from D:\android workplace\android-Bluethat\Application\src\main\AndroidManifest.xml:29:9-35
+	android:icon
+		ADDED from D:\android workplace\android-Bluethat\Application\src\main\AndroidManifest.xml:30:9-45
+	android:theme
+		ADDED from D:\android workplace\android-Bluethat\Application\src\main\AndroidManifest.xml:32:9-40
+activity#com.example.android.bluetoothchat.MainActivity
+ADDED from D:\android workplace\android-Bluethat\Application\src\main\AndroidManifest.xml:34:9-42:20
+	android:label
+		ADDED from D:\android workplace\android-Bluethat\Application\src\main\AndroidManifest.xml:37:13-45
+	android:configChanges
+		ADDED from D:\android workplace\android-Bluethat\Application\src\main\AndroidManifest.xml:36:13-63
+	android:name
+		ADDED from D:\android workplace\android-Bluethat\Application\src\main\AndroidManifest.xml:35:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\android workplace\android-Bluethat\Application\src\main\AndroidManifest.xml:38:13-41:29
+action#android.intent.action.MAIN
+ADDED from D:\android workplace\android-Bluethat\Application\src\main\AndroidManifest.xml:39:17-68
+	android:name
+		ADDED from D:\android workplace\android-Bluethat\Application\src\main\AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\android workplace\android-Bluethat\Application\src\main\AndroidManifest.xml:40:17-76
+	android:name
+		ADDED from D:\android workplace\android-Bluethat\Application\src\main\AndroidManifest.xml:40:27-74
+activity#com.example.android.bluetoothchat.DeviceListActivity
+ADDED from D:\android workplace\android-Bluethat\Application\src\main\AndroidManifest.xml:44:9-48:63
+	android:label
+		ADDED from D:\android workplace\android-Bluethat\Application\src\main\AndroidManifest.xml:47:13-50
+	android:configChanges
+		ADDED from D:\android workplace\android-Bluethat\Application\src\main\AndroidManifest.xml:46:13-63
+	android:theme
+		ADDED from D:\android workplace\android-Bluethat\Application\src\main\AndroidManifest.xml:48:13-61
+	android:name
+		ADDED from D:\android workplace\android-Bluethat\Application\src\main\AndroidManifest.xml:45:13-47
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\android workplace\android-Bluethat\Application\src\main\AndroidManifest.xml:51:5-80
+	android:name
+		ADDED from D:\android workplace\android-Bluethat\Application\src\main\AndroidManifest.xml:51:22-78
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from D:\android workplace\android-Bluethat\Application\src\main\AndroidManifest.xml:52:5-73
+	android:name
+		ADDED from D:\android workplace\android-Bluethat\Application\src\main\AndroidManifest.xml:52:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\android workplace\android-Bluethat\Application\src\main\AndroidManifest.xml:53:5-67
+	android:name
+		ADDED from D:\android workplace\android-Bluethat\Application\src\main\AndroidManifest.xml:53:22-65
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\android workplace\android-Bluethat\Application\src\main\AndroidManifest.xml:54:5-79
+	android:name
+		ADDED from D:\android workplace\android-Bluethat\Application\src\main\AndroidManifest.xml:54:22-77
+uses-sdk
+INJECTED from D:\android workplace\android-Bluethat\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:gridlayout-v7:25.0.1] C:\Users\1qsx\.android\build-cache\395d687d675409f60fddab5239384b9aa7d5297d\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.0.1] C:\Users\1qsx\.android\build-cache\9f83b208a197d5b7b79255fcf69bef3b2e8f25c9\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\1qsx\.android\build-cache\028854d5eaed832f406014d66f971ebfa1a13e3f\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\1qsx\.android\build-cache\a0385adea8ec7f05d74d318113fe50ac42bd33ce\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\1qsx\.android\build-cache\1565d7595ec0895b2da254b46751a610339ec68a\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\1qsx\.android\build-cache\e3a451db122defe7db095e15d23a4a262a61133a\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\1qsx\.android\build-cache\d74ed51119805deb73c82b29a3bb99ccdf8b7312\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\1qsx\.android\build-cache\00c84f05344e82d7b1a7913ceb991be5ee267d84\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\1qsx\.android\build-cache\76d76b7f49b5227719c322830ae3027f0507fbcc\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\1qsx\.android\build-cache\e12f913da214c47e906515d7bfd728b37a8a22ea\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\1qsx\.android\build-cache\6d82e717095e03e56ad9e0d6311b4bd1185fe360\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.0.1] C:\Users\1qsx\.android\build-cache\028854d5eaed832f406014d66f971ebfa1a13e3f\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\android workplace\android-Bluethat\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\android workplace\android-Bluethat\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\android workplace\android-Bluethat\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\android workplace\android-Bluethat\Application\src\main\AndroidManifest.xml
